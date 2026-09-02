@@ -1,4 +1,5 @@
 # Nordic Accessibility Engine
+## Östersund project
 
 An automated backend engine built for high-performance spatial data processing, network graph generation, and multi-source Dijkstra routing to compute granular walking-accessibility metrics. Developed as a technical demonstration for modern geographic availability systems (similar in scope and architecture to national platforms like **PIPOS**).
 
