@@ -34,7 +34,8 @@ This repository houses a production-ready spatial data processing pipeline (`v2`
 * `calculate_accessibility_v2.py`: Core routing engine implementing graph traversal and accessibility distance metrics.
 * `Ostersund_accessibility_map.qgz`: **QGIS** project file featuring pre-styled layers for spatial visualization.
 * `Ostersund_accessibility_map.pdf`: Exported cartographic map showcasing analysis outputs.
-
+[![Östersund Accessibility Map](Qgis_Ostersund.png)](Ostersund_accessibility_map.pdf)
+*Click the map image above to open or download the full PDF vector version.*
 ---
 
 ## Professional Alignment
